@@ -1,0 +1,10 @@
+{
+    "postal": {
+        "cleared": "Waypoint cleared",
+        "unknown": "Postal %s does not exist",
+        "set": "Waypoint set to postal %s",
+        "suggestion": "Set a waypoint to a postal code",
+        "code": "code",
+        "code_help": "Postal code. Leave empty to clear the waypoint"
+    }
+}

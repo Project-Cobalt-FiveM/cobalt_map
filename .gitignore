@@ -1,0 +1,5 @@
+tools/.cache/
+tools/ytdtool/bin/
+tools/ytdtool/obj/
+__pycache__/
+renders/before.png
